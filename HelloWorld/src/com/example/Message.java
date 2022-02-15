@@ -6,7 +6,7 @@ public class Message {
 		// TODO Auto-generated method stub
          System.out.println("push from eclipse");
          System.out.println("feb 15 edit going on ");
-		 System.out.println("Looks Good nxt still trying");
+		 System.out.println("changed ip address");
 
 	}
 
